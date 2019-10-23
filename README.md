@@ -2,6 +2,7 @@
 
 ## Pré-requisito
 [.NET Core 3.0](https://dotnet.microsoft.com/download/dotnet-core/3.0)
+
 [Node.js](https://nodejs.org/en/)
 
 Esse projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
